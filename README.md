@@ -13,4 +13,3 @@ This project demonstrates how to extract, summarize, and analyze PDF documents u
 ```bash
 pip install -r requirements.txt
 python main.py
-**
